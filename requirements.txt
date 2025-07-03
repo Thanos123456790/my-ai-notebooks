@@ -1,5 +1,6 @@
 pandas
 matplotlib
 seaborn
-python3
+jupyter
 python
+python3
